@@ -1,0 +1,172 @@
+{
+ "flyers": [
+  {
+   "file": "img/flyers/01",
+   "w": 837,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.39 PM (1).jpeg"
+  },
+  {
+   "file": "img/flyers/02",
+   "w": 811,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.39 PM.jpeg"
+  },
+  {
+   "file": "img/flyers/03",
+   "w": 864,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.40 PM (1).jpeg"
+  },
+  {
+   "file": "img/flyers/04",
+   "w": 763,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.40 PM.jpeg"
+  },
+  {
+   "file": "img/flyers/05",
+   "w": 1080,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.41 PM (1).jpeg"
+  },
+  {
+   "file": "img/flyers/06",
+   "w": 862,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.41 PM.jpeg"
+  },
+  {
+   "file": "img/flyers/07",
+   "w": 864,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.42 PM.jpeg"
+  },
+  {
+   "file": "img/flyers/08",
+   "w": 720,
+   "h": 1080,
+   "src": "Flyers\\unzipped\\WhatsApp Image 2026-11-10 at 7.41.43 PM.jpeg"
+  }
+ ],
+ "posters": [
+  {
+   "file": "img/posters/01",
+   "w": 1020,
+   "h": 1189,
+   "src": "Posters\\unzipped\\WhatsApp Image 2026-11-10 at 7.44.31 PM (1).jpeg"
+  },
+  {
+   "file": "img/posters/02",
+   "w": 1016,
+   "h": 1080,
+   "src": "Posters\\unzipped\\WhatsApp Image 2026-11-10 at 7.44.31 PM.jpeg"
+  },
+  {
+   "file": "img/posters/03",
+   "w": 794,
+   "h": 962,
+   "src": "Posters\\unzipped\\WhatsApp Image 2026-11-10 at 7.44.32 PM (1).jpeg"
+  },
+  {
+   "file": "img/posters/04",
+   "w": 927,
+   "h": 1080,
+   "src": "Posters\\unzipped\\WhatsApp Image 2026-11-10 at 7.44.32 PM.jpeg"
+  },
+  {
+   "file": "img/posters/05",
+   "w": 638,
+   "h": 768,
+   "src": "Posters\\WhatsApp Image 2026-11-10 at 7.44.30 PM.jpeg"
+  },
+  {
+   "file": "img/posters/06",
+   "w": 709,
+   "h": 870,
+   "src": "Posters\\WhatsApp Image 2026-11-10 at 7.44.32 PM.jpeg"
+  }
+ ],
+ "covers": [
+  {
+   "file": "img/covers/01",
+   "w": 864,
+   "h": 1080,
+   "src": "Fictional magazine covers\\unzipped\\WhatsApp Image 2026-11-10 at 7.50.31 PM (1).jpeg"
+  },
+  {
+   "file": "img/covers/02",
+   "w": 1000,
+   "h": 1129,
+   "src": "Fictional magazine covers\\unzipped\\WhatsApp Image 2026-11-10 at 7.50.31 PM.jpeg"
+  },
+  {
+   "file": "img/covers/03",
+   "w": 1080,
+   "h": 1012,
+   "src": "Fictional magazine covers\\unzipped\\WhatsApp Image 2026-11-10 at 7.50.32 PM (1).jpeg"
+  },
+  {
+   "file": "img/covers/04",
+   "w": 1080,
+   "h": 1080,
+   "src": "Fictional magazine covers\\unzipped\\WhatsApp Image 2026-11-10 at 7.50.32 PM.jpeg"
+  }
+ ],
+ "products": [
+  {
+   "file": "img/products/01",
+   "w": 748,
+   "h": 906,
+   "src": "Product Designs\\unzipped\\WhatsApp Image 2026-11-10 at 7.48.12 PM.jpeg"
+  },
+  {
+   "file": "img/products/02",
+   "w": 1080,
+   "h": 1080,
+   "src": "Product Designs\\unzipped\\WhatsApp Image 2026-11-10 at 7.48.13 PM (1).jpeg"
+  },
+  {
+   "file": "img/products/03",
+   "w": 756,
+   "h": 847,
+   "src": "Product Designs\\unzipped\\WhatsApp Image 2026-11-10 at 7.48.13 PM (2).jpeg"
+  },
+  {
+   "file": "img/products/04",
+   "w": 610,
+   "h": 698,
+   "src": "Product Designs\\unzipped\\WhatsApp Image 2026-11-10 at 7.48.13 PM.jpeg"
+  },
+  {
+   "file": "img/products/05",
+   "w": 987,
+   "h": 1080,
+   "src": "Product Designs\\unzipped\\WhatsApp Image 2026-11-10 at 7.48.15 PM (1).jpeg"
+  },
+  {
+   "file": "img/products/06",
+   "w": 1080,
+   "h": 1080,
+   "src": "Product Designs\\unzipped\\WhatsApp Image 2026-11-10 at 7.48.15 PM (2).jpeg"
+  },
+  {
+   "file": "img/products/07",
+   "w": 812,
+   "h": 1080,
+   "src": "Product Designs\\unzipped\\WhatsApp Image 2026-11-10 at 7.48.15 PM.jpeg"
+  },
+  {
+   "file": "img/products/08",
+   "w": 1080,
+   "h": 1080,
+   "src": "Product Designs\\WhatsApp Image 2026-11-10 at 7.48.16 PM.jpeg"
+  },
+  {
+   "file": "img/products/09",
+   "w": 834,
+   "h": 1080,
+   "src": "Product Designs\\WhatsApp Image 2026-11-10 at 7.48.55 PM.jpeg"
+  }
+ ]
+}
